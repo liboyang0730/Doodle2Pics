@@ -1,0 +1,5 @@
+{
+  "name": "Doodle Genius (随心画)",
+  "description": "An AI-powered drawing app that transforms your simple sketches into stunning artworks using Gemini 2.5 Flash Image. Draw freely and let the AI enhance your creativity.",
+  "requestFramePermissions": []
+}
